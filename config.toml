@@ -1,4 +1,4 @@
-baseurl = "https://samsaptaka.github.io/blog/"
+baseurl = "https://samsaptaka.github.io/"
 languageCode = "en-us"
 title = "my brain dump"
 theme = "mini"
